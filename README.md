@@ -7,7 +7,7 @@
 4. ⚙️ [Key Activities in Requirement Analysis](#Key-Activities-in-Requirement-Analysis)
 5. 📚 [Types of Requirements](#Types-of-Requirements)
 6. 📊 [Use Case Diagrams](#use-case-diagrams)
-7. 📸 [Screenshot](#screenshot)
+7. 📸 [ Use case diagram for the booking system](#Use-case-diagram-for-the-booking-system)
 8. ✅ [Acceptance Criteria](#acceptance-criteria)
 
 
@@ -89,7 +89,7 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Facilitate communication among stakeholders and development team.
   
 
-## Screenshot
+## Use case diagram for the booking system
 <img src="https://github.com/Austine247-droid/requirement-analysis/blob/main/alx-booking-uc.png?raw=true"> <br>
 
 ## Acceptance Criteria
