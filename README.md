@@ -43,3 +43,39 @@ Surveys/Questionnaires: Distributing surveys to collect requirements from a larg
 - Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
 ## Types of Requirements
+### Functional Requirements ⚙️
+- Definition: Describe what the system should do.
+- Examples: User authentication, property search, booking system, user registration.
+
+### Non-functional Requirements 🛡️
+- Definition: Describe how the system should perform.
+- Examples: Performance, security, scalability, usability, reliability.
+
+| Functional  ⚙️ | Non-Functional  🛡️ |
+| -------------| -----------------|
+| 1. Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability | 1. Performance: The system should load pages within 2 seconds and handle up to 1000 concurrent users |
+| 2. User Registration: New users should be able to create an account with personal details and login credentials | 2. Security: Ensure data encryption, secure login, and protect against common vulnerabilities |
+| 3. Property Listings: Display properties with essential details and images | 3. Scalability: The system should be able to scale horizontally to handle increased traffic |
+| 4. Booking System: Users should be able to book properties, view booking details, and manage their bookings | 4. Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks |
+| 5. User Authentication: Secure login and registration process for users | 5. Reliability: The system should have an uptime of 99.9% and recover quickly from any failures |
+
+
+## Use Case Diagrams
+### Use Case Diagrams 📊
+- Objective: Visual representation of interactions between users and the system.
+
+#### What are Use Case Diagrams?
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+#### Creating Use Case Diagrams:
+- Identify actors (e.g., guest, registered user, admin).
+- Define use cases (e.g., search properties, book property, manage listings).
+- Draw interactions between actors and use cases.
+
+#### Benefits of Use Case Diagrams:
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
+
+## Screenshot
+<img src="https://github.com/Austine247-droid/airbnb-clone-project/blob/main/Homepage.png?raw=true"> <br>
