@@ -1,6 +1,17 @@
 # Requirement Analysis in Software Development 📑
 
-## About the project
+## Table of Contents
+1. 📖 [Project Overview](#project-overview)
+2. ⚙️ [What is Requirement Analysis](#What-is-Requirement-Analysis)
+3. ⚙️ [Why is Requirement Analysis Important](#Why-is-Requirement-Analysis-important)
+4. ⚙️ [Key Activities in Requirement Analysis](#Key-Activities-in-Requirement-Analysis)
+5. 📚 [Types of Requirements](#Types-of-Requirements)
+6. 📊 [Use Case Diagrams](#use-case-diagrams)
+7. 📸 [Screenshot](#screenshot)
+8. ✅ [Acceptance Criteria](#acceptance-criteria)
+
+
+## Project Overview
 The Requirement Analysis Project focuses on crafting a comprehensive foundation for software development by documenting, analyzing, and structuring requirements. Through a series of well-defined tasks, learners will create a detailed blueprint of the requirement analysis phase for a booking management system. This project simulates a real-world development scenario, emphasizing clarity, precision, and structure in defining requirements to set the stage for successful project execution.
 
 ## What is Requirement Analysis?
@@ -76,6 +87,23 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Provide a clear visual representation of system functionalities.
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
+  
 
 ## Screenshot
-<img src="https://github.com/Austine247-droid/airbnb-clone-project/blob/main/Homepage.png?raw=true"> <br>
+<img src="https://github.com/Austine247-droid/requirement-analysis/blob/main/alx-booking-uc.png?raw=true"> <br>
+
+## Acceptance Criteria
+- Objective: Establishing clear criteria for feature completion.
+
+### What is Acceptance Criteria?
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+### How to Define Acceptance Criteria:
+- Be specific and measurable.
+- Include functional and non-functional aspects.
+Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+
+### Benefits of Acceptance Criteria:
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
